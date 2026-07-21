@@ -1,0 +1,29 @@
+[8-7-2026]
+
+SQL:
+
+It is a sequence language communication with database for data manipulations
+
+Clause Guide SQL Query..?
+
+Select
+From
+Where
+Group By
+Having
+Order By
+Limit
+ 
+CRUD Operations..?
+
+Create - C
+Read - R
+Update - U
+Delete - D
+
+Database Normalization..?
+
+1NF - First Normal Form
+2NF - Second Normal Form
+3NF - Third Normal Form
+BCNF - Boyce-Codd Normal Form
